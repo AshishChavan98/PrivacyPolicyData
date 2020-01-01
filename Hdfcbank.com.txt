@@ -1,0 +1,291 @@
+Global Privacy Policy
+Who is covered under this policy? 
+All natural persons ("Covered Persons"), whose personal information is either collected/ received/ possessed/ stored/ dealt in/ handled by HDFC Bank/ who visit the site http://www.hdfcbank.com and provide information to HDFC Bank online, are covered under this Policy.
+
+
+
+Information covered by this Policy 
+This Policy seeks to cover personal information of the Covered Persons provided to HDFC Bank as also any information collected by the bank server from the visitor’s browser. The ("Information"), i.e. any of the following:
+
+
+
+Personal/private information of the Covered Persons
+Sensitive personal data or information
+
+
+Definitions used in this policy:
+"Personal information" means any information that relates to a natural person, which, either directly or indirectly, in combination with other information available or likely to be available with a body corporate, is capable of identifying such person.
+
+
+
+"Sensitive personal data or information" of a person means such personal information which consists of information relating to:
+
+Password
+Financial information such as Bank account or credit card or debit card or other payment instrument details;
+Physical, physiological and mental health condition;
+Sexual orientation;
+Medical records and history;
+Biometric information;
+Provided that, any information that is freely available or accessible in public domain or furnished under the Right to Information Act, 2005 or any other law for the time being in force shall not be regarded as sensitive personal data or information for these purposes.
+
+
+
+The Features of the Policy:
+
+All Information collected shall be used for the relevant lawful purposes connected with various functions or activities of the Bank related to services in which the Concerned Person is interested, and/or to help determine the eligibility of the Concerned Persons for the product/services requested/ applied/ shown interest in and/or to enable Bank the Covered Persons verification and/or process applications, requests, transactions and/or maintain records as per internal/legal/regulatory requirements and shall be used to provide the Concerned Person with the best possible services/products as also to protect interests of HDFC Bank.
+
+
+
+The Information shall not be shared with any external organisation unless the same is necessary to protect the interests of the Bank or to enable HDFC Bank to provide you services or to enable the completion/compilation of a transaction, credit reporting, or the same is necessary or required pursuant to applicable banking norms or pursuant to the terms and conditions applicable to such Information as agreed to with HDFC Bank or pursuant to any requirement of law/regulations or any Government/court/other relevant authority’s directions/orders. Needless to add, confidentiality norms as applicable to banks shall be adhered to. HDFC Bank may also share Information to provide you with superior services and a range of offers.
+
+
+
+We may also share your Information, without obtaining your prior written consent, with government agencies mandated under the law to obtain information for the purpose of verification of identity, or for prevention, detection, investigation including cyber incidents, prosecution, and punishment of offences, or where disclosure is necessary for compliance of a legal obligation. Any Information may be required to be disclosed to any third party by us by an order under the law for the time being in force.
+
+
+
+In this regard, it may be necessary to disclose the Covered Persons information to one or more agents and contractors of HDFC Bank and their sub-contractors, but such agents, contractors, and sub-contractors will be required to agree to use the information obtained from HDFC Bank only for these purposes.
+
+Information provided by you are retained (for later of the) (i) as long as the purposes for which such data were collected continue. Or (ii) for such period so as to satisfy legal, regulatory or accounting requirements or to protect HDFC Bank's interests.
+
+Please note that the accuracy of the Information provided to us on the Website is essential, among others, to provision of our products and services to you. It is therefore a term and condition governing the access and use of the Website that you undertake to ensure the accuracy and completeness of all Information disclosed, shared, exchanged or otherwise update and notify the Bank via e-mail a Contact-Us of any changes in the Information.
+
+
+
+The Covered Persons authorises HDFC Bank to exchange, share, part with all information related to the details and transaction history of the Covered Persons to its Affiliates / banks / financial institutions / credit bureaus / agencies/participation in any telecommunication or electronic clearing network as may be required by law, customary practice, credit reporting, statistical analysis and credit scoring, verification or risk management or any of the aforesaid purposes and shall not hold HDFC Bank liable for use or disclosure of this information.
+
+
+
+The Covered Persons shall not disclose to any other person, in any manner whatsoever, any information relating to HDFC Bank or its Affiliates of a confidential nature obtained in the course of availing the services through the website. Failure to comply with this obligation shall be deemed a serious breach of the terms herein and shall entitle HDFC Bank or its Affiliates to terminate the services, without prejudice to any damages, to which the Covered Persons may be entitled otherwise.
+
+
+
+As regards the information collected from visitors of the website online (“visitor”), HDFC Bank will use the Information to improve the Covered Persons experience on the site and make subsequent offers to the visitor on products which may be of interest to him / her, if so agreed while giving information.
+
+
+
+The HDFC Bank website uses cookies. Cookies are small data files that a website stores on your computer. We use persistent cookies which are permanently placed on your computer to store non-personal (Browser, ISP, OS, Clickstream information etc) and profiling information (age, gender, income etc). While cookies have unique identification nos, personal information (name, a/c no, contact nos etc) SHALL NOT be stored on the cookies.
+
+
+
+We will use the information stored in the cookies to improve visitor experience through throwing up relevant content where possible. We will also use the cookies to store visitor preferences to ease visitor navigation on the site.
+
+We may in the future implement encryption of the cookies.
+
+HDFC Bank also may disclose information about you as permitted or required by law.
+
+At HDFC Bank, we value your relationship and will at all times strive to ensure your privacy.
+
+The Bank may, from time to time, change this policy.
+Privacy Policy for Digital Platform
+Privacy Notice – Digital Platforms
+
+Effective Date – 1st August 2019
+
+HDFC Bank is committed to protecting your privacy when you use HDFC Bank’s Digital Platforms. This Privacy Statement ("Statement") explains how we collect, use, share, and safeguard your information when you use our Digital Platforms.
+
+“HDFC Bank” or “we” or “our” = HDFC Bank Limited, its subsidiaries and service providers.
+
+“You” or “Your” = Customers of the Bank and visitors of the Digital Platforms (including their representatives).
+
+“Digital Platform(s)” = Our mobile applications, online services and other digital platforms such as Payment Gateways, Digital Application Platform (DAP) and POS devices.
+
+Use of our Digital Platforms = Visiting any Digital Platforms owned and/or controlled by us including to access your accounts, use our EVA service, conduct online transactions, etc.; viewing or clicking on our ads on third-party sites that re-direct you to our Digital Platforms; interacting with us on third-party sites, etc.
+
+When you use our Digital Platforms, you are expressly agreeing to and consenting to the terms of this Statement and by any use of our Digital Platforms you will deemed to have given your consent for the processing of your Personal Data as set out in this Statement.
+
+Data we collect
+
+"Personal data" refers to data that identifies (whether directly or indirectly) a particular individual, such as information you provide on our forms, surveys, online applications or similar online fields. Examples may include your name, previous names, postal address, email address, telephone number, domicile, nationality, PAN number, date of birth or account information.
+"Anonymous information" means information that cannot reasonably be used to identify a particular individual. Examples may include information about your Internet browser, IP address, information collected through tracking technologies, demographic information that you provide to us and aggregated or de-identified data.
+"Location information" means information that may be collected by certain mobile applications that identifies your physical location. This information may be collected from your mobile device's location-aware features when you request certain services that are dependent on your physical location.
+“Device Information” means unique device identifier such as IMEI number, contact lists (in some cases), technical Data about your computer and mobile device including details regarding applications and usage details.
+“Biometric information” means information such as your fingerprint, etc. that you choose to provide to us for authentication and fraud prevention purposes.  We will not collect your biometric information without your explicit consent.
+ Other information such as information relating to your occupation and financial situation such as employer’s name and address (if self-employed, type of account, and nature and volume of anticipated business dealings, with the conventional bank licensee, income proof, bank statements, income tax returns, salary slip, contract of employment, passbook, debit card/credit card details, expenditure, assets and liabilities, source of wealth, signature, as well as your other bank account details;
+Generation and storing password or PIN in encrypted form based on your request on the Digital Platform;
+Your photographs;
+Social relationships detail such as your father’s name, spouse’s name and mother’s name;
+Behavioural details as to how to utilise our products, services, offers etc., your browsing actions, patterns and online activity;
+Records of correspondence and other communications between us, including email, telephone conversations, live chat, instant messages and social media communications containing information concerning your grievances, complaints and dispute
+Sensitive personal data such as gender, medical records and history;
+Personal data you provide to us about others or others provide to us about you.
+Purpose of collecting your personal data
+
+To personalize your Digital Platform experience;
+To respond to your inquiries and address your requests;
+To deliver marketing communications that we believe may be of interest to you;
+To inform you about important information regarding our Digital Platforms, changes to terms, conditions, and policies and/or other administrative information;
+To offer you our products or services which you may have applied for or shown interest in;
+To allow you to apply for our products or services (e.g., to prequalify for a loan, apply for a credit card, or to open an account, investment account, insurance or other financial product),
+To evaluate your eligibility for our products or services;
+To provide you with products or services you’ve requested, e.g. fulfilling a payment request or any other transaction
+To perform our obligations under KYC norms (e.g. sharing your information with third parties to verify details you have provided to us like your identity, to authenticate you and verify your information;
+To allow you to participate in surveys and other forms of market research, contests and similar promotions and to administer these activities. Some of these activities have additional rules, which may contain additional information about how Personal Data is used and shared;
+To perform activities such as data analysis, audits, usage trends to determine the effectiveness of our campaigns and as input into improving products and services and enhancing our Digital Platforms;
+To improve risk control for fraud detection and prevention, to comply with laws and regulations, and to comply with other legal processes and law enforcement requirements;
+To allow you to utilize Digital Platform features by granting us access to information from your device such as contact lists, or geo-location when you request certain services;
+To use it in other ways as required or permitted by law or with your consent;
+To manage our relationship with you;
+To prevent or detect crime including fraud and financial crime, e.g. financing for terrorism and human trafficking;
+For security and business continuity and risk management;
+To protect our legal rights and comply with our legal obligations;
+For system or product development and planning, audit and administrative purposes;
+To enter into a contract with you or to take steps pursuant to your request prior to entering into a contract.
+To meet the legitimate interests to be pursued by us or by a third party.
+Who do we share your information with?
+
+With subsidiaries and/or affiliates in an effort to bring you improved services across our family of products and services, when permissible under relevant laws and regulations;
+With third-party service providers, vendors, data processors and/or agents who perform services for us and help us operate our business;
+Other companies to bring you co-branded services, products or programs;
+Other third parties to comply with legal requirements such as the demands of applicable warrants, court orders; to verify or enforce our terms of use, our other rights, or other applicable policies; to address fraud, security or technical issues; to respond to an emergency; or otherwise to protect the rights, property or security of our customers or third parties.
+Statutory and regulatory bodies and authorities including but not limited to the Reserve Bank of India or the Securities and Exchange Board of India (including central and local government) and law enforcement authorities and entities or persons, to whom or before whom it is mandatory to disclose the Personal Data as per the applicable law, courts, judicial and quasi-judicial authorities and tribunals, arbitrators and arbitration tribunal.
+By using our Digital Platform or by agreeing to transact with us, you agree to the above sharing of information during your relationship with us.
+How do we collect your personal data?
+
+We use information about the devices you use to interact with HDFC Bank such as Device information and location information.
+When you provide your details in forms, surveys, online applications or similar online fields.
+We may record details of your interaction with us including telephone conversations with our call centres and other kinds of communication. We may use these recordings to check your instructions to use, assess, analyse and improve our service, train our people, manage risk and or to prevent fraud and other crimes.
+Retention of Personal Data 
+
+We may retain your Personal Data for as long as required to provide you with services such as managing your account and dealing with any concerns that may arise or otherwise if required for any legal or regulatory requirements or for establishment, exercise or defence of legal claims.
+ We may need to retain your information for a longer period where we need the information for our legitimate purposes for e.g. to help us respond to queries or complaints, fighting fraud and financial crime, responding to requests from regulators, etc. If we don’t need to retain information for this period of time, we may destroy, delete or anonymise it more promptly
+Cookies
+
+"Cookies" are bits of electronic information that can transfer to your hard drive, mobile device, or other device to keep records of your use or visit to our Digital Platform. We may use cookies to improve your experiences when visiting or using our Digital Platform. We may use cookies to anonymously track interests , and collect aggregate information when you use or visit Digital Platform. We do not use cookies to store or transmit any Personal Data.
+Temporary "session" cookies are also used to facilitate customer navigation within our Digital Platform during your visit. "Session" cookies are deleted once you close your internet browser. We may also use "persistent" cookies that are retained on your computer after your visit ends so we can identity your preferences and enhance your future visits to our Digital Platform.
+"Log files" are files that anonymously log actions that take place on a website. We may use log files to gather statistics about your browsing habits and to assess overall digital activity, including how many "hits" a particular web page is getting. Log files enable us to track interest in specific promotions, troubleshoot technical concerns, and provide content that may be of interest. We also use the log file entries for our internal marketing and demographic studies, so we can improve the Digital Platform we provide to customers and visitors. Log files are used internally only, are anonymous, and are not associated with any particular user, device, computer, or browser.
+
+
+Third-Party Links
+
+Clicking on certain links within our Digital Platforms may take you to other websites, or may display information on your computer screen or device from other sites, which may not be maintained by HDFC Bank. Such sites may contain terms and conditions, privacy provisions, confidentiality provisions, or other provisions that differ from the terms and conditions applicable to our Digital Platforms. Links to other Internet services and websites are provided solely for the convenience of users. A link to any service or site is not an endorsement of any kind of the service or site, its content, or its sponsoring organization.
+The Bank assume no responsibility or liability whatsoever for the content, accuracy, reliability or opinions expressed in a website, to which our digital platforms are linked (a "linked site") and such linked sites are not monitored, investigated, or checked for accuracy or completeness by the Bank. It is the responsibility of the user to evaluate the accuracy, reliability, timeliness and completeness of any information available on a linked site. All products, services and content obtained from a linked site are provided "as is" without warranty of any kind, express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, title, non-infringement, security, or accuracy.
+Security
+
+We take our responsibility to protect your information very seriously. We use physical, technical, and procedural safeguards that comply with applicable legal standards to secure your information from unauthorized access and use, alteration, and destruction.
+We seek to use reasonable organizational, technical and administrative measures to protect Personal data within our organization. We require our staff and any third parties who carry out any work on our behalf to comply with appropriate compliance standards including obligations to protect any information and applying appropriate measures for the use and transfer of information.
+Social Media
+
+HDFC Bank may provide an experience on social media platforms including, but not limited to, Facebook, Twitter, YouTube and LinkedIn that may enable online sharing and collaboration among users who have registered to use them. Please note that when visiting any official HDFC Bank’s social media site, you are subject to this Online Privacy Statement as well as the social media platform's own terms and conditions. 
+Updating Your Information
+
+Keeping your account information up-to-date is very important. If you believe that your account information is incomplete or inaccurate, please contact us through channels available to you
+Phone Banking
+Through your nearest branch – Locate branch near you
+Write to us at privacy@hdfcbank.com
+If you prefer, you may call or write to us at the telephone numbers and addresses provided on your account statements, or you may speak directly with a branch representative, or your designated relationship manager.
+
+Contacting us
+
+privacy@hdfcbank.com
+Updates
+
+If we make updates to our privacy practices, we will update this Statement with the changes. Any updates to the Statement become effective when we post the updates on this site. Your use of our Digital Platforms following any update to the Statement means that you accept the updated Statement and consent to the use and sharing provisions identified in the Statement.
+Cookie Policy
+Date of most recent update: 13th February 2019
+
+PLEASE READ THIS POLICY CAREFULLY BEFORE USING OUR WEBSITES
+
+This policy explains how cookies are used on our websites.
+
+This policy may be amended from time to time and the latest policy will be posted on this page.
+
+By using our websites, you agree that we can place cookies on your device. Please be aware that some of our services will not function if your browser or device does not accept our cookies.
+
+Please note that where we have another type of presence on a site owned by a third party, such as a page or handle on a social media site, that third party’s privacy policy and terms of use, rather than this Policy, will govern, unless specifically stated otherwise.
+
+
+
+What are cookies?
+
+Cookies are text files containing small amounts of information, which your computer or mobile device downloads when you visit a website. When you return to websites — or visit other websites that use the same cookies — they recognise these cookies and therefore your browsing device.
+
+Cookies do lots of different jobs, like helping us understand how this website is being used, letting you navigate between pages efficiently, remembering your preferences, and generally improving your browsing experience. Cookies can also help ensure marketing you see online is more relevant to you and your interests.
+
+You can learn about the cookies we use and how to manage them below.
+
+
+
+What type of cookies Bank use?
+
+The type of cookies used on most websites can generally be put into 1 of 4 categories: Strictly Necessary, Performance, Functionality and Targeting.
+
+Strictly Necessary Cookies
+
+These cookies are essential, as they enable you to move around the website and use its features, such as accessing secure areas. Without these cookies, services you've asked for can't be provided. These cookies don’t gather information about you that is used for marketing or remembering where you've been on the internet.
+
+Performance Cookies
+
+These cookies collect information about how you use a website, for example which pages you go to most often and if you get error messages from certain pages. These cookies don't gather information that identifies you. All information these cookies collect is anonymous and is only used to improve how a website works.
+
+These cookies are not used to target you with online marketing. Without these cookies we can't learn how our website is performing and make relevant improvements that could better your browsing experience.
+
+Functionality Cookies
+
+These cookies allow a website to remember choices you make (such as your user name, language or the region you're in) and tailor the website to provide enhanced features and content for you.
+
+Without these cookies, a website cannot remember choices you've previously made or personalise your browsing experience.
+
+Targeting Cookies
+
+These cookies are used to tailor marketing to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They remember that you have visited a website and this information may be shared with other organisations such as advertisers. Although these cookies can track your visits to other websites, they don’t usually know who you are.
+
+Without these cookies, online advertisements you encounter will be less relevant to you and your interests.
+
+
+
+What happens if I disable cookies?
+
+If cookies are disabled on your computer, tablet or mobile your experience on the website may be limited. For example, you may not be able to browse freely or use specific functions or features.
+
+
+
+How do I disable/enable cookies?
+
+To disable or enable cookies you will need to change some settings on your Internet browser.
+
+We have provided step-by-step guides for the major desktop browsers below. 
+
+For information on how to manage cookies on your tablet or mobile please consult your documentation or online help files.
+
+Google Chrome
+
+In the settings menu, select 'show advanced settings' at the bottom of the page
+
+Select the 'content settings' button in the privacy section
+
+In the page that appears tells you can manage and/or clear stored cookies.
+
+Firefox
+
+In the menu, select 'options'
+
+Select the privacy tab in the options box
+
+From the dropdown choose, 'use custom settings for history'. This will present the options for cookies and you can choose to enable or disable cookies.
+
+Internet Explorer 6+
+
+In the tools menu, select 'Internet options'
+
+Click the privacy tab
+
+You will see a privacy settings slider which has six settings that allow you to control the number of cookies that will be placed: Block All Cookies, High, Medium High, Medium (default level), Low, and Accept All Cookies.
+
+Safari
+
+In the settings menu, select the 'preferences' option
+
+Open the privacy tab
+
+Select the option you want from the 'block cookies' section
+
+Any other browser
+
+For information on how to manage cookies via other desktop browsers please consult your documentation or online help files.
+
+
+
+What happens to cookies that have been downloaded in the past?
+
+If you've disabled through your browser we may still use information collected from existing cookies, but we'll stop using the disabled cookies to gather any further information. For information on deleting stored cookies in your browser please visit the All About Cookies website.
